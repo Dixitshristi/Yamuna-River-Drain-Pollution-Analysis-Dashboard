@@ -52,7 +52,7 @@ Yamuna-Under-Drain-Analysis/
 │   └── 01_eda_yamuna_pollution.ipynb          # Python data cleaning & feature engineering
 │
 ├── visualisations/
-│   └── (https://github.com/Dixitshristi/Yamuna-River-Drain-Pollution-Analysis-Dashboard/blob/main/dashboard.PNG) Yamuna_Dashboard_Preview.png           # Full-screen Power BI dashboard snapshot
+│   └── Yamuna_Dashboard_Preview.png           # Full-screen Power BI dashboard snapshot
 │
 ├── dashboard/
 │   └── Yamuna_delhi_project.pbix              # Interactive Power BI report file
