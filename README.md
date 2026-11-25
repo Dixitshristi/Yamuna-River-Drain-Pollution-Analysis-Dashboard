@@ -1,6 +1,6 @@
 # 🌊 Yamuna River Under-Drain Pollution Analysis (Delhi | 2018–2024)
 
-![Yamuna Dashboard Preview](visualisations/Yamuna_Dashboard_Preview.png)
+![Yamuna Dashboard Preview](https://github.com/Dixitshristi/Yamuna-River-Drain-Pollution-Analysis-Dashboard/blob/main/dashboard.PNG)
 
 ## 📌 Project Overview
 An end-to-end data analytics project investigating **7 years of Yamuna River water quality records (2018–2024)** sourced from the **Central Pollution Control Board (CPCB) National Water Monitoring Programme (NWMP)**. 
@@ -52,7 +52,7 @@ Yamuna-Under-Drain-Analysis/
 │   └── 01_eda_yamuna_pollution.ipynb          # Python data cleaning & feature engineering
 │
 ├── visualisations/
-│   └── Yamuna_Dashboard_Preview.png           # Full-screen Power BI dashboard snapshot
+│   └── (https://github.com/Dixitshristi/Yamuna-River-Drain-Pollution-Analysis-Dashboard/blob/main/dashboard.PNG) Yamuna_Dashboard_Preview.png           # Full-screen Power BI dashboard snapshot
 │
 ├── dashboard/
 │   └── Yamuna_delhi_project.pbix              # Interactive Power BI report file
